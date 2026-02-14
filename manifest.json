@@ -1,8 +1,8 @@
 {
   "name": "Tina Neon Rex Runner",
   "short_name": "TinaRunner",
-  "start_url": "/index.html",
-  "display": "minimal-ui",
+  "start_url": "/TinaNeonRexRunner",
+  "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#00f5ff",
   "icons": [
