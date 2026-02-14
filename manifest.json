@@ -2,7 +2,7 @@
   "name": "Tina Neon Rex Runner",
   "short_name": "TinaRunner",
   "start_url": "/index.html",
-  "display": "standalone",
+  "display": "minimal-ui",
   "background_color": "#0a0a0f",
   "theme_color": "#00f5ff",
   "icons": [
@@ -11,5 +11,13 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "dir": "ltr",
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "categories": [
+    "entertainment",
+    "games",
+    "kids"
   ]
 }
